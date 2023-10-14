@@ -1,0 +1,9 @@
+.title {
+    margin-bottom: 20px; /* Adjust this value as per your needs */
+}
+
+
+.card .content {
+    max-height: 200px; /* adjust this based on your needs */
+    overflow-y: auto; /* will show a scrollbar if content exceeds the max-height */
+}
